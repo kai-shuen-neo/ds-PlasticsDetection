@@ -5,9 +5,11 @@ Tldr: Predicted whether samples are classifiable as "Plastic" or "No Plastic" us
 Goal: Detection & Classification of MNP’s in Water
 (Binary classification: “Plastic” vs “No Plastic”)
 
-Hypothesis 1: Samples are classifiable as “Plastic” or “No Plastic” using various binary algorithms with an F1 score of 0.80 or above.
+Hypothesis 1: 
+Samples are classifiable as “Plastic” or “No Plastic” using various binary algorithms with an F1 score of 0.80 or above.
 
-Hypothesis 2: Bovine Serum Albumin (BSA) and Aspartic Acid will be the two most important reagents for this classification across all algorithms.
+Hypothesis 2: 
+Bovine Serum Albumin (BSA) and Aspartic Acid will be the two most important reagents for this classification across all algorithms.
 
 Algorithms:
 1. Linear methods (Logistic Regression (No regularization, LASSO (L1), Ridge (L2)), Linear SVM)
