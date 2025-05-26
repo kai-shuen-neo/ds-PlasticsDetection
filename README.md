@@ -10,7 +10,7 @@ Hypothesis 1: Samples are classifiable as “Plastic” or “No Plastic” usin
 Hypothesis 2: Bovine Serum Albumin (BSA) and Aspartic Acid will be the two most important reagents for this classification across all algorithms.
 
 Algorithms:
-1. Linear methods (Logistic Regression (No regularization, LASSO (L1), Ridge (L2), Linear SVM)
+1. Linear methods (Logistic Regression (No regularization, LASSO (L1), Ridge (L2)), Linear SVM)
 2. Tree methods (Random Forest, Gradient Boosting, Light Boosting, XGboost)
 
 
