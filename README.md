@@ -1,6 +1,6 @@
 # Fundamentals of Data Science
 
-## Micro/Nano Plastic Detection via Paper Microfluidic Chips
+## Microplastics Detection via Paper Microfluidic Chips
 
 
 Goal: 
