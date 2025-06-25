@@ -23,4 +23,8 @@
 2. Hypothesis 2 was not supported. BSA and Aspartic Acid were not always the top reagents for classification.
 
 #### References
-- To view slides: [Sie533_Microplastics.pdf](https://github.com/kai-shuen-neo/ds-PlasticsDetection/blob/main/Sie533_Microplastics.pdf) 
+- To view slides: [Sie533_Microplastics.pdf](https://github.com/kai-shuen-neo/ds-PlasticsDetection/blob/main/Sie533_Microplastics.pdf)
+- To view code: [microplastics_logistic_regression.ipynb](https://github.com/kai-shuen-neo/ds-PlasticsDetection/blob/main/microplastics_logistic_regression.ipynb)
+
+
+
