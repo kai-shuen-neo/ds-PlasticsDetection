@@ -22,4 +22,5 @@
 1. Hypothesis 1 was supported. Data were classifiable via binary algorithms as “plastic” or “no plastic” above an F1 score of 0.80. Model F1 scores were between 0.882-0.989 with a median of 0.935.
 2. Hypothesis 2 was not supported. BSA and Aspartic Acid were not always the top reagents for classification.
 
-### References
+#### References
+- To view slides: [Sie533_Microplastics.pdf](https://github.com/kai-shuen-neo/ds-PlasticsDetection/blob/main/Sie533_Microplastics.pdf) 
